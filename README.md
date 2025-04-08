@@ -34,15 +34,6 @@ The dataset includes the following fields:
 
 ---
 
-## 📷 Dashboard Preview
-
-![HR Analytics Dashboard](hr_dashboard.png)
-
----
-
-## 🧭 Folder Structure
-
----
 
 ## 💡 Key Insights
 - Highest attrition is in the **26-35 age group**
